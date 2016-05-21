@@ -2,6 +2,7 @@
 html {
   position: relative;
   min-height: 100%;
+  font-size: 13px;
 }
 body {
   margin: 0;
@@ -54,7 +55,7 @@ p {
 .paraLink  a {
 	font-weight: 700;
 	color: #192954;
-	text-decoration: none;
+	text-decoration: underline;
 }
 .center {
 	text-align: center;
@@ -97,11 +98,20 @@ a: hover {
 .minHeight {
 	min-height: 284px;
 }
+/* Clear fix hack */
+.clearfix:after {
+ content: ".";
+ display: block;
+ clear: both;
+ visibility: hidden;
+ line-height: 0;
+ height: 0;
+}
 /*GLOBAL STYLES*/
 
 /*NAV ELEMENTS*/
 
-@media (max-width: 1000px) {
+@media (max-width: 768px) {
   .navbar-header {
       float: none;
   }
@@ -220,6 +230,10 @@ a: hover {
 	padding:0 0 10px 0 !important;
 	margin:0 !important;
 }
+.box--no-border {
+	border:0;
+	box-shadow: none;
+}
 .groupIcon {
 	width:76px;
 	height:76px;
@@ -306,7 +320,11 @@ a: hover {
 .fa-ul li {
 	padding-bottom: 10px;
 }
-
+.goals > .col-md-6,
+.goals > .col-md-4,
+.goals > .col-md-3 {
+	min-height: 261px;
+}
 /*MAIN CONTENT*/
 
 /*FOOTER*/
@@ -370,7 +388,6 @@ a: hover {
 	margin-top: 70px;
 	font-size: 1em;
 }
-
 /* NEWS AND ARTICLES PAGE */
 
 .newsTitle h2 {
@@ -433,9 +450,9 @@ a: hover {
 
 /* MEDIA QUERIES */
 @media (max-width: 768px) { /* IPAD */
-body{
+/*body{
 	font-size: 80%;
-}
+}*/
 .box p {
 	line-height: 12px;
 }
@@ -449,13 +466,12 @@ body{
 }
 .fullWidth h1{
 	padding-bottom:10px;
-	line-height:25px;
 }
 }
 @media (max-width: 480px) { /* IPHONE */
-body{
+/*body{
 	font-size: 75%;
-}
+}*/
 .box p {
 	line-height: 12px;
 }
@@ -491,19 +507,63 @@ body{
 }
 .fullWidth h1{
 	padding-bottom:10px;
-	line-height:25px;
 }
+
 }
 
 @media (max-width: 320px) { /* SMALL PHONE */
-body{
+/*body{
 	font-size: 60%;
-}
+}*/
 .fullWidth p{
 	padding-top:10px;
 }
 .fullWidth h1{
 	padding-bottom:10px;
-	line-height:25px;
 }
 }
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+    .goals > .col-md-6 {
+		min-height: initial;
+	}
+	.mulPara {
+	margin-bottom: 10px;
+}
+.social{
+	text-align: center;
+}
+.contact{
+	text-align: center;
+}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+ .goals > .col-md-6 {
+		min-height: 100px;
+	}
+	.mulPara {
+	margin-bottom: 10px;
+}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+ .goals > .col-md-6 {
+		min-height: initial;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+

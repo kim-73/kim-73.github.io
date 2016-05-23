@@ -43,8 +43,8 @@ p {
 	color: #444;
 }
 .bold {
-	font-weight: 700;
 	color: #192954;
+	font-weight: 600;
 }
 .right {
 	text-align: right;
@@ -55,7 +55,7 @@ p {
 .paraLink  a {
 	font-weight: 700;
 	color: #192954;
-	text-decoration: underline;
+	text-decoration: none;
 }
 .center {
 	text-align: center;
@@ -187,7 +187,16 @@ a: hover {
 .carousel-control.left, .carousel-control.right {
 	background-image: none !important;
 }
+.navbar-brand {
+	vertical-align: top;
+	line-height: 5px;
+	padding-top: 0px;
 
+}
+.navbar-brand p{
+	padding-top: 20px;
+	color: #192954;
+}
 /*NAV ELEMENTS*/
 
 

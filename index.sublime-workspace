@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"s",
+				"src	Attr"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"text-tr",
+				"text-transform"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"border-top",
+				"border-top"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"c",
+				"content	Attr"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bas",
+				"BASE"
+			],
+			[
+				"i",
+				"image"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"borderbo",
+				"border-bottom-color"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"border-to",
+				"border-top-width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"backgo",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kimhowell/Documents/General Assembly/final project/sydneyMTB.sublime-project",
+		"/Users/kimhowell/Documents/General Assembly/final project/html/css/styles.css",
+		"/Users/kimhowell/Documents/General Assembly/final project/html/membership.html",
+		"/Users/kimhowell/Documents/General Assembly/final project/html/events.html",
+		"/Users/kimhowell/Documents/General Assembly/final project/html/news_articles.html",
+		"/Users/kimhowell/Documents/General Assembly/final project/html/index.html",
+		"/Users/kimhowell/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kimhowell/Documents/JGR/Palette_Main/HTML_v1.1/multipage/contact.html",
+		"/Users/kimhowell/Documents/JGR/Palette_Main/HTML_v1.1/multipage/index.html",
+		"/Users/kimhowell/Documents/JGR/Palette_Main/HTML_v1.1/multipage/mail.php",
+		"/Users/kimhowell/Desktop/calendarjquerycss3/calendarjquerycss3/index.html",
+		"/Users/kimhowell/Documents/General Assembly/final project/html/css/bootstrap.css",
+		"/Users/kimhowell/Desktop/bootstrap tutorial/index.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 9 & 10/blackout/js/custom.js",
+		"/Users/kimhowell/Documents/Web Dev tools/HTML5 Responsive Table Design/chapter1/index.html",
+		"/Users/kimhowell/Documents/Web Dev tools/HTML5 Responsive Table Design/chapter1/Chapter01_Codes_master.html",
+		"/Users/kimhowell/Documents/Web Dev tools/HTML5 Responsive Table Design/chapter1/Chapter01_Codes.html",
+		"/Users/kimhowell/Desktop/nav test/css/styles.css",
+		"/Users/kimhowell/Desktop/nav2/styles.css",
+		"/Users/kimhowell/Desktop/nav test/index.html",
+		"/Users/kimhowell/Desktop/nav2/index.html",
+		"/Users/kimhowell/Desktop/untitled folder/styles.css",
+		"/Users/kimhowell/Desktop/untitled folder/index.html",
+		"/Users/kimhowell/Downloads/demos/grow.html",
+		"/Users/kimhowell/Documents/General Assembly/templates/index.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/templates/bootstrap 3 template/index.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/templates/bootstrap 3 template/css/styles.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/templates/bootstrap 3 template/jay-index.html",
+		"/Users/kimhowell/Documents/Web Dev tools/bootstrap-3.3.6-dist/index.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 6/startup matchmaker/index.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 6/Exercise_Startup_Matchmaker-master/solution_code/css/style.css",
+		"/Users/kimhowell/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/kimhowell/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/kimhowell/Documents/JavaScript/rockpaper/js/script.js",
+		"/Users/kimhowell/Documents/JavaScript/rockpaper/index.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 6/Exercise_Startup_Matchmaker-master/solution_code/developers.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 6/startup matchmaker/css/style.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 6/startup matchmaker/developers.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 6/Exercise_Startup_Matchmaker-master/solution_code/index.html",
+		"/Users/kimhowell/Desktop/temp/css/style.css",
+		"/Users/kimhowell/Desktop/temp/index.html",
+		"/Users/kimhowell/Desktop/creating-a-future-proof-responsive-email-without-media-queries-master/styles.css",
+		"/Users/kimhowell/Desktop/creating-a-future-proof-responsive-email-without-media-queries-master/index.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 3 & 4/homework/home L2 final/index.html",
+		"/Users/kimhowell/Desktop/test/css/style.css",
+		"/Users/kimhowell/Desktop/test/index.html",
+		"/Users/kimhowell/Desktop/test/JS/java.js",
+		"/Users/kimhowell/Desktop/test/style.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 3 & 4/homework/home L2 final/css/style.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 3 & 4/homework/exercise/css/style.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 3 & 4/homework/exercise/index.html",
+		"/Users/kimhowell/Documents/JGR/website/html/css/style.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/lesson 3 & 4/homework/solution_code/css/style.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/week 1/homework/html/css/styles.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/week 1/homework/html/index.html",
+		"/Users/kimhowell/Documents/OneDrive/lessons/week 1/homework/html/index.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/week 1/lab exercise/joe.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/week 1/lab exercise/index.html",
+		"/Users/kimhowell/Documents/General Assembly/lessons/week 1/lab exercise/css/style.css",
+		"/Users/kimhowell/Documents/General Assembly/lessons/week 1/lab exercise/Joe_Johnson_abouy_me.html",
+		"/Users/kimhowell/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fullwidth",
+			"full-width",
+			"ajax-contact-form",
+			"btn",
+			"box min-height",
+			"min-heigh",
+			"social",
+			"carousel-inner",
+			"navbar-header",
+			"font-awesome",
+			"wrapper",
+			"FontAwesome",
+			"font-awesome",
+			"font",
+			"fa fa-wrench",
+			"font-awesome"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 129.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

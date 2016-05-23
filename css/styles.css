@@ -107,6 +107,10 @@ a: hover {
  line-height: 0;
  height: 0;
 }
+.italic {
+	font-style: italic;
+	font-weight: 400;
+}
 /*GLOBAL STYLES*/
 
 /*NAV ELEMENTS*/
@@ -333,6 +337,18 @@ a: hover {
     width: 12.5%;
   }
 }
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    color: #192954;
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+.nav-tabs > li > a:hover {
+	background-color: #192954;
+	color: #fff;
+}
   
 .the-buttons > li {
   float: left;
@@ -379,8 +395,11 @@ a: hover {
 	display:inline;
 }
 .dets{
-	font-size: 1em;
-	color: red;
+	color: #192954;
+	font-weight: 600; 
+}
+.tab-content h4{
+	font-weight: 600;
 }
 
 /* TABBED CONTENT*/
@@ -522,9 +541,11 @@ a: hover {
 }
 .fullWidth p{
 	padding-top:10px;
+	text-align: center;
 }
 .fullWidth h1{
 	padding-bottom:10px;
+	text-align: center;
 }
 }
 @media (max-width: 480px) { /* IPHONE */
@@ -563,9 +584,11 @@ a: hover {
 }
 .fullWidth p{
 	padding-top:10px;
+	text-align: center;
 }
 .fullWidth h1{
 	padding-bottom:10px;
+	text-align: center;
 }
 
 }
@@ -576,9 +599,11 @@ a: hover {
 }*/
 .fullWidth p{
 	padding-top:10px;
+	text-align: center;
 }
 .fullWidth h1{
 	padding-bottom:10px;
+	text-align: center;
 }
 }
 /*==========  Mobile First Method  ==========*/

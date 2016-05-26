@@ -193,10 +193,6 @@ a: hover {
 	padding-top: 0px;
 
 }
-.navbar-brand p{
-	padding-top: 20px;
-	color: #192954;
-}
 /*NAV ELEMENTS*/
 
 
@@ -337,6 +333,11 @@ a: hover {
 .goals > .col-md-4,
 .goals > .col-md-3 {
 	min-height: 261px;
+}
+.vcenter {
+	display: inline-block;
+	vertical-align: middle;
+	float: none;
 }
 
 /* TABBED CONTENT*/

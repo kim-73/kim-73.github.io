@@ -348,13 +348,13 @@ iframe {
 	max-width:100% !important;
 	overflow-y: hidden !important;
 }
-.map-responsive{
+.map_responsive{
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
     height:0;
 }
-.map-responsive iframe{
+.map_responsive iframe{
     left:0;
     top:0;
     height:100%;

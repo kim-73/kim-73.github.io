@@ -352,6 +352,7 @@ iframe {
 	border:0 !important;
 	max-width:100% !important;
 	overflow-y: hidden !important;
+	pointer-events: none;
 }
 /* TABBED CONTENT*/
 
